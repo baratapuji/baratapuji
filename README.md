@@ -269,6 +269,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3000&pause=500&color=06B6D4&center=true&vCenter=true&width=600&height=40&lines=THANK+YOU+FOR+VISITING;LEVEL+UP+YOUR+CAREER+WITH+AI;+;+;+;+;+;+;" />
   <br/>
   <sub style="color:#475569; font-size:12px;">
-    ⚡ Made with ❤️ and a lot of caffeine by Barata Puji ⚡
+    ⚡ Made with and a lot of caffeine by Barata Puji ⚡
   </sub>
 </div>
